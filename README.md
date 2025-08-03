@@ -1,16 +1,28 @@
-# ngo_app
+# NGO_app
 
-A new Flutter project.
+A modern Flutter app designed to support NGO activities — enabling users to contribute, connect, and help make a positive impact.
 
-## Getting Started
+## 🌟 Features
+- 🏠 Home Screen with a welcoming message and call-to-action  
+- 📋 Volunteer Form for users to sign up as volunteers  
+- ☰ Navigation Drawer for easy app navigation  
+- 🎨 Clean and intuitive UI design  
+- 💡 Well-organized and scalable code structure  
 
-This project is a starting point for a Flutter application.
+## 🛠 Tech Stack
+- Flutter (UI toolkit)  
+- Dart (programming language)  
+- Material Design Components  
 
-A few resources to get you started if this is your first Flutter project:
+## 📥 Download APK
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+You can download the latest APK to install and test the app directly on your Android device:  
+[Download ngo_app.apk](https://drive.google.com/file/d/1Qiw7PvuD-zlYjzXydFRXheDo7lKLk9F_/view?usp=sharing)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🚀 GitHub Clone
+
+Clone the repository to your local machine:
+
+```bash
+git clone https://github.com/your-username/ngo_app.git
+cd ngo_app
