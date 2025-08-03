@@ -24,5 +24,5 @@ You can download the latest APK to install and test the app directly on your And
 Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/ngo_app.git
+git clone https://github.com/Manish-Khatriya/NGO_app.git
 cd ngo_app
